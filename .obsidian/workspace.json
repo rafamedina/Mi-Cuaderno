@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Acceso a datos/Programas para empezar.md",
+                "file": "Acceso a datos/2. Introducción a la persistencia de ficheros/2.2 Tema 1 Fundamentos de Persistencia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Programas para empezar"
+              "title": "2.2 Tema 1 Fundamentos de Persistencia"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 401.5
   },
   "right": {
     "id": "8eb8cc1af1c92776",
@@ -169,10 +169,15 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "b1764f39e5b97915",
+  "active": "964395c4c127dc5b",
   "lastOpenFiles": [
+    "Acceso a datos/2. Introducción a la persistencia de ficheros/2.1 Definición.md",
+    "Acceso a datos/2. Introducción a la persistencia de ficheros/2.2 Tema 1 Fundamentos de Persistencia.md",
+    "Acceso a datos/1. Programas para empezar.md",
+    "Acceso a datos/2. Introducción a la persistencia de ficheros",
+    "Defectos y virtudes.md",
+    "dadada.md",
     "Acceso a datos",
-    "Acceso a datos/Programas para empezar.md",
     "Sin título.base",
     "Bienvenido.md"
   ]
