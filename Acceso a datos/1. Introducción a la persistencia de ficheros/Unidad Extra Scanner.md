@@ -31,6 +31,32 @@ public class EjemploScanner {
     }
 }
 ```
+![[Pasted image 20250930122326.png]]
+
+## Leer archivos con Scanner
+```java
+import java.io.File;
+import java.util.Scanner;
+
+public class LeerArchivoScanner {
+    public static void main(String[] args) {
+        try {
+            File archivo = new File("datos/entrada.txt");
+            Scanner sc = new Scanner(archivo);
+
+            while (sc.hasNextLine()) {
+                String linea = sc.nextLine();
+                System.out.println("Línea: " + linea);
+            }
+
+            sc.close();
+        } catch (Exception e) {
+            System.out.println("Error al leer archivo: " + e.getMessage());
+        }
+    }
+}
+```
+
 
 
 ### Ventajas frente a otras clases de lectura de archivos
@@ -84,5 +110,21 @@ public class MenuEjemplo {
 }
 ```
 
+![[Pasted image 20250930122634.png]]
 
 
+##  Comparación con otras clases de entrada
+
+| Clase            | Ventajas                                | Inconvenientes                      |
+| ---------------- | --------------------------------------- | ----------------------------------- |
+| `Scanner`        | Fácil de usar, soporta tipos primitivos | Más lento que `BufferedReader`      |
+| `BufferedReader` | Muy eficiente en lectura de texto       | Necesita conversión manual de tipos |
+| `FileReader`     | Lectura directa de archivos             | Requiere envoltorios (buffers)      |
+## Buenas prácticas 
+- Cerrar siempre con `sc.close()` para liberar recursos.
+    
+- Si se usan métodos mixtos (`nextInt` y `nextLine`), limpiar el buffer.
+    
+- Para proyectos grandes, combinarlo con **clases POJO** para estructurar datos.
+    
+- Evitar su uso en **aplicaciones con ficheros enormes**, donde `BufferedReader` es más eficiente.
