@@ -13,24 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Acceso a datos/2. Introducción a la persistencia de ficheros/2.2 Tema 1 Fundamentos de Persistencia.md",
+                "file": "Acceso a datos/1. Introducción a la persistencia de ficheros/1.2 Tema 1 Fundamentos de Persistencia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.2 Tema 1 Fundamentos de Persistencia"
-            }
-          },
-          {
-            "id": "629b1b562441ed40",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-09-17 12.19.15.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-09-17 12.19.15.excalidraw"
+              "title": "1.2 Tema 1 Fundamentos de Persistencia"
             }
           },
           {
@@ -39,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Acceso a datos/2. Introducción a la persistencia de ficheros/Unidad Extra Scanner.md",
+                "file": "Acceso a datos/1. Introducción a la persistencia de ficheros/Clases NIO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unidad Extra Scanner"
+              "title": "Clases NIO"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 401.5
+    "width": 275.5
   },
   "right": {
     "id": "8eb8cc1af1c92776",
@@ -121,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Acceso a datos/Programas para empezar.md",
+                "file": "Acceso a datos/1. Introducción a la persistencia de ficheros/1.2 Tema 1 Fundamentos de Persistencia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Programas para empezar"
+              "title": "Enlaces entrantes de 1.2 Tema 1 Fundamentos de Persistencia"
             }
           },
           {
@@ -197,12 +184,20 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "b1764f39e5b97915",
+  "active": "964395c4c127dc5b",
   "lastOpenFiles": [
-    "Acceso a datos/2. Introducción a la persistencia de ficheros/2.2 Tema 1 Fundamentos de Persistencia.md",
-    "Acceso a datos/2. Introducción a la persistencia de ficheros/2.1 Definición.md",
-    "Acceso a datos/1. Programas para empezar.md",
-    "Acceso a datos/2. Introducción a la persistencia de ficheros/Unidad Extra Scanner.md",
+    "Pasted image 20250930114251.png",
+    "Pasted image 20250930114248.png",
+    "Pasted image 20250930114136.png",
+    "Pasted image 20250930114129.png",
+    "Acceso a datos/1. Introducción a la persistencia de ficheros/1.1 Definición.md",
+    "Acceso a datos/1. Introducción a la persistencia de ficheros/1.2 Tema 1 Fundamentos de Persistencia.md",
+    "Pasted image 20250930113625.png",
+    "Pasted image 20250930113506.png",
+    "Pasted image 20250930113434.png",
+    "Acceso a datos/1. Introducción a la persistencia de ficheros/Unidad Extra Scanner.md",
+    "Acceso a datos/1. Introducción a la persistencia de ficheros/Clases NIO.md",
+    "Acceso a datos/Programas para empezar.md",
     "Captura de pantalla 2025-09-15 112026.png",
     "Excalidraw/Drawing 2025-09-17 12.19.34.excalidraw.md",
     "Excalidraw/Drawing 2025-09-17 12.19.15.excalidraw.md",
@@ -210,7 +205,7 @@
     "Sin título.canvas",
     "Sin título 1.base",
     "Sin título.base",
-    "Acceso a datos/2. Introducción a la persistencia de ficheros",
+    "Acceso a datos/1. Introducción a la persistencia de ficheros",
     "Defectos y virtudes.md",
     "dadada.md",
     "Acceso a datos",
