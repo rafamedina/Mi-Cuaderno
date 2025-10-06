@@ -11,14 +11,12 @@
             "id": "1c5791eea8641a2f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Acceso a datos/1. Introducción a la persistencia de ficheros/1.2 Tema 1 Fundamentos de Persistencia.md",
-                "mode": "source",
-                "source": false
+                "file": "Acceso a datos/Imagenes/DOMEscribirEjemplo.png"
               },
-              "icon": "lucide-file",
-              "title": "1.2 Tema 1 Fundamentos de Persistencia"
+              "icon": "lucide-image",
+              "title": "DOMEscribirEjemplo"
             }
           }
         ]
@@ -183,12 +181,23 @@
   "active": "1c5791eea8641a2f",
   "lastOpenFiles": [
     "Acceso a datos/5. Ficheros Binarios y Serialización de Objetos/Introducción.md",
+    "Acceso a datos/6. Lectura y Escritura de Ficheros XML/Tema 6.1 Procesamiento XML con DOM.md",
+    "Acceso a datos/Imagenes/DOMEscribirEjemplo.png",
+    "empleados.xml",
+    "Acceso a datos/Imagenes/DOMLeerEjemplo.png",
+    "Acceso a datos/6. Lectura y Escritura de Ficheros XML/Introducción.md",
+    "Acceso a datos/Imagenes/dom.png",
+    "Acceso a datos/Imagenes/LeerXML_SAX.png",
+    "Acceso a datos/Imagenes/LeerXML_DOM.png",
+    "Acceso a datos/6. Lectura y Escritura de Ficheros XML",
+    "Acceso a datos/4. Acceso aleatorio a ficheros/4.1 Clases NIO.md",
+    "Acceso a datos/1. Introducción a la persistencia de ficheros/Unidad Extra Scanner.md",
+    "Acceso a datos/1. Introducción a la persistencia de ficheros/1.1 Definición.md",
+    "Acceso a datos/1. Introducción a la persistencia de ficheros/1.2 Tema 1 Fundamentos de Persistencia.md",
+    "Acceso a datos/Imagenes/LeerObjeto.png",
+    "Acceso a datos/Imagenes/EscribirObjeto.png",
     "Acceso a datos/Ejercicios Github.md",
     "Acceso a datos/Programas para empezar.md",
-    "Acceso a datos/1. Introducción a la persistencia de ficheros/Unidad Extra Scanner.md",
-    "Acceso a datos/1. Introducción a la persistencia de ficheros/1.2 Tema 1 Fundamentos de Persistencia.md",
-    "Acceso a datos/1. Introducción a la persistencia de ficheros/1.1 Definición.md",
-    "Acceso a datos/4. Acceso aleatorio a ficheros/4.1 Clases NIO.md",
     "Acceso a datos/Imagenes/foto1.png",
     "Acceso a datos/5. Ficheros Binarios y Serialización de Objetos",
     "Acceso a datos/Imagenes/foto1.md",
@@ -196,14 +205,7 @@
     "Acceso a datos/Imagenes/foto2.png",
     "2025-10-06.md",
     "Acceso a datos/Imagenes/foto8.png",
-    "Acceso a datos/Imagenes/Pasted image 20250930125222.png",
-    "Acceso a datos/Imagenes/Pasted image 20250930122526.png",
-    "Acceso a datos/Imagenes/Pasted image 20250930114136.png",
-    "Acceso a datos/Imagenes/Pasted image 20250930114248.png",
     "Acceso/Imagenes/Pasted.md",
-    "Acceso a datos/Imagenes/foto9.png",
-    "Acceso a datos/Imagenes/foto6.png",
-    "Acceso a datos/Imagenes/Pasted image 20250930113434.png",
     "Imagenes/Pasted.md",
     "Acceso/Imagenes",
     "Acceso",
@@ -213,8 +215,6 @@
     "Acceso a datos/Ejercicios/UD1/Tema4.1/src/AccesoAleatorioEjercicio.java",
     "Acceso a datos/Ejercicios/UD1/Tema4.1/src",
     "Acceso a datos/Ejercicios/UD1/Tema4.1/Tema4.1.iml",
-    "Acceso a datos/Ejercicios/UD1/Tema4.1",
-    "Acceso a datos/Ejercicios/UD1/Tema3.1/src/GestorFicheroTexto.java",
     "Excalidraw/Drawing 2025-09-17 12.19.34.excalidraw.md",
     "Excalidraw/Drawing 2025-09-17 12.19.15.excalidraw.md",
     "Sin título.canvas",

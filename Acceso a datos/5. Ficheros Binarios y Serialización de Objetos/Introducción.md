@@ -8,6 +8,8 @@ Para que una clase sea serializable debe:
     
 - Tener un identificador `serialVersionUID` (recomendado).
 
+## Escritura de objetos (serialización)
+
 ```java
 import java.io.*;
 
@@ -33,5 +35,59 @@ class Persona implements Serializable {
         this.nombre = nombre;
         this.edad = edad;
     }
+    public int getEdad() {  
+    return edad;  
+}  
+  
+	public String getNombre() {  
+    return this.nombre;
 }
 ```
+![EscribirObjeto](../Imagenes/EscribirObjeto.png)
+
+
+## Lectura de objetos (deserialización)
+
+```java
+import java.io.*;
+
+public class LeerObjeto {
+    public static void main(String[] args) {
+        try (ObjectInputStream ois = new ObjectInputStream(new FileInputStream("datos/persona.dat"))) {
+            Persona p = (Persona) ois.readObject();
+            System.out.println("Nombre: " + p.getNombre());
+            System.out.println("Edad: " + p.getEdad());
+        } catch (IOException | ClassNotFoundException e) {
+            System.out.println("Error al leer objeto: " + e.getMessage());
+        }
+    }
+}
+```
+![LeerObjeto](../Imagenes/LeerObjeto.png)
+## Ventajas de la serialización
+
+- Permite almacenar el estado completo de objetos complejos.
+    
+- Muy útil para guardar listas, colecciones y objetos anidados.
+    
+- Fácil de implementar con `ObjectOutputStream` y `ObjectInputStream`.
+    
+
+## Consideraciones
+
+- Todos los objetos incluidos deben ser también `Serializable`.
+    
+- No se deben serializar objetos con conexiones abiertas, hilos, etc.
+    
+- Puede romperse la compatibilidad si cambia la estructura de la clase.
+    
+
+## Tabla resumen
+
+|Clase|Descripción|
+|---|---|
+|`Serializable`|Interfaz que marca una clase como serializable|
+|`ObjectOutputStream`|Permite escribir objetos en un flujo binario|
+|`ObjectInputStream`|Permite leer objetos desde un flujo binario|
+|`writeObject(obj)`|Serializa un objeto y lo guarda en el archivo|
+|`readObject()`|Recupera el objeto previamente serializado|
