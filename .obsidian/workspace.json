@@ -11,12 +11,14 @@
             "id": "1c5791eea8641a2f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Acceso a datos/Imagenes/DOMEscribirEjemplo.png"
+                "file": "Acceso a datos/6. Lectura y Escritura de Ficheros XML/Tema 6.1 Procesamiento XML con DOM.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "DOMEscribirEjemplo"
+              "icon": "lucide-file",
+              "title": "Tema 6.1 Procesamiento XML con DOM"
             }
           }
         ]
@@ -76,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 373.5
   },
   "right": {
     "id": "8eb8cc1af1c92776",
@@ -178,11 +180,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1c5791eea8641a2f",
+  "active": "b1764f39e5b97915",
   "lastOpenFiles": [
+    "README.md",
+    "Acceso a datos/4. Acceso aleatorio a ficheros/4.1 Clases NIO.md",
+    "Acceso a datos/Programas para empezar.md",
+    "Acceso a datos/Imagenes/DOMEscribirEjemplo.png",
     "Acceso a datos/5. Ficheros Binarios y Serialización de Objetos/Introducción.md",
     "Acceso a datos/6. Lectura y Escritura de Ficheros XML/Tema 6.1 Procesamiento XML con DOM.md",
-    "Acceso a datos/Imagenes/DOMEscribirEjemplo.png",
     "empleados.xml",
     "Acceso a datos/Imagenes/DOMLeerEjemplo.png",
     "Acceso a datos/6. Lectura y Escritura de Ficheros XML/Introducción.md",
@@ -190,14 +195,12 @@
     "Acceso a datos/Imagenes/LeerXML_SAX.png",
     "Acceso a datos/Imagenes/LeerXML_DOM.png",
     "Acceso a datos/6. Lectura y Escritura de Ficheros XML",
-    "Acceso a datos/4. Acceso aleatorio a ficheros/4.1 Clases NIO.md",
     "Acceso a datos/1. Introducción a la persistencia de ficheros/Unidad Extra Scanner.md",
     "Acceso a datos/1. Introducción a la persistencia de ficheros/1.1 Definición.md",
     "Acceso a datos/1. Introducción a la persistencia de ficheros/1.2 Tema 1 Fundamentos de Persistencia.md",
     "Acceso a datos/Imagenes/LeerObjeto.png",
     "Acceso a datos/Imagenes/EscribirObjeto.png",
     "Acceso a datos/Ejercicios Github.md",
-    "Acceso a datos/Programas para empezar.md",
     "Acceso a datos/Imagenes/foto1.png",
     "Acceso a datos/5. Ficheros Binarios y Serialización de Objetos",
     "Acceso a datos/Imagenes/foto1.md",
