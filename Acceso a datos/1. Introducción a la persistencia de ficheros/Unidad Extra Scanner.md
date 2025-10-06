@@ -31,7 +31,7 @@ public class EjemploScanner {
     }
 }
 ```
-![[Pasted image 20250930122326.png]]
+[![foto](foto6.png)
 
 ## Leer archivos con Scanner
 ```java
@@ -110,7 +110,7 @@ public class MenuEjemplo {
 }
 ```
 
-![[Pasted image 20250930122634.png]]
+[![foto](foto7.png)
 
 
 ##  Comparación con otras clases de entrada
