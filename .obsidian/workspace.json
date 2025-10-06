@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a7fd48badf35af80",
+        "id": "816c47e3163f49c8",
         "type": "tabs",
         "children": [
           {
-            "id": "11e5090098b7ca3a",
+            "id": "2fd02e5e6e60f080",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "Acceso a datos/4. Acceso aleatorio a ficheros/4.1 Clases NIO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.1 Clases NIO"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 512.5
+    "width": 200
   },
   "right": {
     "id": "8eb8cc1af1c92776",
@@ -177,16 +181,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "11e5090098b7ca3a",
+  "active": "2fd02e5e6e60f080",
   "lastOpenFiles": [
+    "Acceso a datos/1. Introducción a la persistencia de ficheros/Unidad Extra Scanner.md",
     "Acceso a datos/1. Introducción a la persistencia de ficheros/1.2 Tema 1 Fundamentos de Persistencia.md",
-    "2025-10-06.md",
+    "Acceso a datos/1. Introducción a la persistencia de ficheros/1.1 Definición.md",
     "Imagenes/foto1.png",
+    "Imagenes/foto2.png",
+    "2025-10-06.md",
     "Acceso a datos/4. Acceso aleatorio a ficheros/4.1 Clases NIO.md",
     "Imagenes/foto8.png",
-    "Acceso a datos/1. Introducción a la persistencia de ficheros/Unidad Extra Scanner.md",
-    "Acceso a datos/1. Introducción a la persistencia de ficheros/1.1 Definición.md",
-    "Imagenes/foto2.png",
     "Acceso a datos/Imagenes/Pasted image 20250930125222.png",
     "Acceso a datos/Imagenes/Pasted image 20250930122526.png",
     "Acceso a datos/Imagenes/Pasted image 20250930114136.png",
