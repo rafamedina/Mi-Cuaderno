@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Acceso a datos/6. Lectura y Escritura de Ficheros XML/Tema 6.1 Procesamiento XML con DOM.md",
+                "file": "Acceso a datos/6. Lectura y Escritura de Ficheros XML/6.2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tema 6.1 Procesamiento XML con DOM"
+              "title": "6.2"
             }
           }
         ]
@@ -180,14 +180,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1c5791eea8641a2f",
+  "active": "b1764f39e5b97915",
   "lastOpenFiles": [
+    "Acceso a datos/6. Lectura y Escritura de Ficheros XML/Tema 6.1 Procesamiento XML con DOM.md",
+    "Acceso a datos/6. Lectura y Escritura de Ficheros XML/6.2.md",
+    "Acceso a datos/Imagenes/SAXEjemplo.png",
+    "Acceso a datos/5. Ficheros Binarios y Serialización de Objetos/Introducción.md",
     "README.md",
     "Acceso a datos/4. Acceso aleatorio a ficheros/4.1 Clases NIO.md",
     "Acceso a datos/Programas para empezar.md",
     "Acceso a datos/Imagenes/DOMEscribirEjemplo.png",
-    "Acceso a datos/5. Ficheros Binarios y Serialización de Objetos/Introducción.md",
-    "Acceso a datos/6. Lectura y Escritura de Ficheros XML/Tema 6.1 Procesamiento XML con DOM.md",
     "empleados.xml",
     "Acceso a datos/Imagenes/DOMLeerEjemplo.png",
     "Acceso a datos/6. Lectura y Escritura de Ficheros XML/Introducción.md",
@@ -207,7 +209,6 @@
     "Imagenes.md",
     "Acceso a datos/Imagenes/foto2.png",
     "2025-10-06.md",
-    "Acceso a datos/Imagenes/foto8.png",
     "Acceso/Imagenes/Pasted.md",
     "Imagenes/Pasted.md",
     "Acceso/Imagenes",
