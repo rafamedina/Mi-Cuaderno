@@ -58,7 +58,7 @@ public class DOMLeerEjemplo {
 }
 ```
 
-![DOM](../Imagenes/DOMLeerEjemplo.png)
+![DOMLeerEjemplo](../Imagenes/DOMLeerEjemplo.png)
 
 El XML para probarlo es el siguiente 
 ```xml
@@ -125,7 +125,7 @@ public class DOMEscribirEjemplo {
     }
 }
 ```
-![DOM](../Imagenes/DOMEscribirEjemplo.png)
+![DOMEscribirEjemplo](../Imagenes/DOMEscribirEjemplo.png)
 
 ## Esquema del flujo de trabajo DOM
 
