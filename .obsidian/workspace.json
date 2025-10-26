@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Acceso a datos/7. JAXP, XPath y Manipulación Avanzada de XML/Tema 7.2 XPath en profundidad.md",
+                "file": "Acceso a datos/Ejercicios Github.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tema 7.2 XPath en profundidad"
+              "title": "Ejercicios Github"
             }
           }
         ]
@@ -182,8 +182,8 @@
   },
   "active": "1c5791eea8641a2f",
   "lastOpenFiles": [
-    "Acceso a datos/Imagenes/LeerXML_SAX.png",
     "Acceso a datos/7. JAXP, XPath y Manipulación Avanzada de XML/Tema 7.2 XPath en profundidad.md",
+    "Acceso a datos/Imagenes/LeerXML_SAX.png",
     "Acceso a datos/Imagenes/xpathAvanzado.png",
     "Acceso a datos/7. JAXP, XPath y Manipulación Avanzada de XML/Tema 7.1  Profundización en JAXP (Java API for XML Processing).md",
     "Acceso a datos/Imagenes/xpath.png",
@@ -214,7 +214,6 @@
     "Acceso a datos/6. Lectura y Escritura de Ficheros XML/Introducción.md",
     "Acceso a datos/5. Ficheros Binarios y Serialización de Objetos/Introducción.md",
     "README.md",
-    "Acceso a datos/Imagenes/DOMEscribirEjemplo.png",
     "empleados.xml",
     "Acceso a datos/6. Lectura y Escritura de Ficheros XML",
     "Acceso a datos/5. Ficheros Binarios y Serialización de Objetos",
