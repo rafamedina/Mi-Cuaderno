@@ -28,7 +28,7 @@ Con Maven:
 |**Plugin**|Herramienta que amplía las capacidades de Maven (por ejemplo, empaquetar en `.jar`, ejecutar pruebas o generar documentación).|
 
 ## 2. Estructura estándar de un proyecto Maven
-
+```
 MiProyecto/
 │
 ├── pom.xml
@@ -38,6 +38,8 @@ MiProyecto/
     │   └── resources/   ← Archivos de configuración
     └── test/
         └── java/        ← Pruebas unitarias (opcional)
+```
+
 
 Esta estructura la detecta automáticamente **IntelliJ IDEA**, **VS Code**, **Eclipse**, y **Jupyter Lab con kernel Java (11)**.
 
