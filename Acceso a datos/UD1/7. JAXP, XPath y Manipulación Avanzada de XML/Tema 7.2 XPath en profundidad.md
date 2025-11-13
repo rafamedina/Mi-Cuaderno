@@ -2,7 +2,7 @@
 **Descripción**  
 XPath (XML Path Language) es un lenguaje de navegación y consulta sobre documentos XML. Esta unidad profundiza en su uso desde Java, especialmente en combinación con DOM y JAXP. Veremos su sintaxis, operadores, funciones comunes y cómo integrarlo correctamente en proyectos Java.
 
-![XPath](../Imagenes/xpath.png)
+![XPath](xpath.png)
 
 
 ## ¿Qué es XPath?
@@ -93,7 +93,7 @@ public class XPathAvanzado {
 }
 ```
 
-![XPath Avanzado](../Imagenes/xpathAvanzado.png)
+![XPath Avanzado](xpathAvanzado.png)
 
 
 ## Ventajas de XPath

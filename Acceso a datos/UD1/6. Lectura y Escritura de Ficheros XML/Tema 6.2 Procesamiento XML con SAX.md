@@ -1,7 +1,7 @@
 **Descripción**  
 En esta unidad se estudia SAX, un modelo de procesamiento de XML basado en eventos, que permite analizar documentos XML de forma secuencial, sin cargarlos completamente en memoria. Es ideal para ficheros grandes o cuando no es necesario modificar el contenido del documento.
 
-![SAX](../Imagenes/SAX.png)
+![SAX](SAX.png)
 ## ¿Qué es SAX?
 
 SAX (Simple API for XML) es un modelo de lectura secuencial de XML que genera eventos cada vez que se encuentra un nodo, un texto o un cierre de etiqueta. A diferencia de DOM, no mantiene en memoria el árbol completo del documento.
@@ -88,7 +88,7 @@ public class SAXEjemplo {
 }
 ```
 
-![SAXLeerEjemplo](../Imagenes/SAXEjemplo.png)
+![SAXLeerEjemplo](SAXEjemplo.png)
 
 ## Comparativa con DOM
 

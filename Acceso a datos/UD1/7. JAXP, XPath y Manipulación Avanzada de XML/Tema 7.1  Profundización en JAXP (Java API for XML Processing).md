@@ -1,6 +1,6 @@
 **Descripción**  
 En esta unidad se amplía el conocimiento sobre la API estándar JAXP, usada para procesar XML en Java de forma unificada. Se estudian sus componentes, clases clave, modos de funcionamiento (DOM y SAX), validación XML con XSD y ventajas para el desarrollo modular y portable.
-![JAXP](../Imagenes/jaxp.png)
+![JAXP](jaxp.png)
 
 
 ## ¿Qué es JAXP?
@@ -49,7 +49,7 @@ public class JAXP_DOM {
 }
 ```
 
-![JAXP con DOM](../Imagenes/JAXPDOM.png)
+![JAXP con DOM](JAXPDOM.png)
 ## Uso de JAXP con SAX
 ```java
 import javax.xml.parsers.*;
@@ -80,7 +80,7 @@ public class JAXP_SAX {
 
 ```
 
-![JAXP con SAX](../Imagenes/JAXPSAX.png)
+![JAXP con SAX](JAXPSAX.png)
 ## Validación de XML con XSD usando JAXP
 ```java
 import javax.xml.parsers.*;
@@ -112,7 +112,7 @@ public class JAXP_Validacion {
 }
 ```
 
-![JAXP Validación](../Imagenes/xsd.png)
+![JAXP Validación](xsd.png)
 ## Ventajas de usar JAXP
 
 - Portabilidad entre distintos parsers (internos o externos).
