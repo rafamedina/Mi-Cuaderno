@@ -1,7 +1,7 @@
 ### **Descripción**  
 Esta unidad profundiza en el uso del modelo DOM para la lectura, análisis, modificación y escritura de documentos XML en Java. Se estudian las clases fundamentales, su estructura jerárquica, y se realizan ejercicios paso a paso para manipular nodos, atributos y contenido textual.
 
-![DOM](../Imagenes/dom.png)
+![DOM](dom.png)
 
 ## ¿Qué es DOM?
 
@@ -58,7 +58,7 @@ public class DOMLeerEjemplo {
 }
 ```
 
-![DOMLeerEjemplo](../Imagenes/DOMLeerEjemplo.png)
+![DOMLeerEjemplo](DOMLeerEjemplo.png)
 
 El XML para probarlo es el siguiente 
 ```xml
@@ -125,7 +125,7 @@ public class DOMEscribirEjemplo {
     }
 }
 ```
-![DOMEscribirEjemplo](../Imagenes/DOMEscribirEjemplo.png)
+![DOMEscribirEjemplo](DOMEscribirEjemplo.png)
 
 ## Esquema del flujo de trabajo DOM
 
