@@ -180,8 +180,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9b32dd12abb46d56",
+  "active": "65dd2e91a19cea15",
   "lastOpenFiles": [
+    "UD2/Tema 7 – Ejemplos prácticos integrados y comparativa final de JDBC Avanzado.md",
+    "UD2/Tema 6 – Gestión de Transacciones en JDBC.md",
+    "UD2/Tema 5 – Procedimientos almacenados con JDBC.md",
+    "UD2/Tema 4 – Consultas avanzadas con JDBC ResultSet y Metadatos.md",
+    "UD2/TEMA 8 – Introducción a MAVEN.md",
+    "UD2/Tema 3 – Ejecución de sentencias DDL y DML con JDBC.md",
+    "UD2/Tema 2 – Pool de Conexiones en JDBC.md",
+    "UD2/Tema 1 – JDBC Avanzado.md",
+    "UD2/JDBC Avanzado en JavaUntitledUntitled.md",
+    "UD2",
     "Unidad2-JDBC 1/Tema 2 - Pool de Conexiones en JDBC.md",
     "Unidad2-JDBC 1/Tema 1 - JDBC Avanzado -  Pool, DDL-DML, Consultas, Procedimientos y Transacciones.md",
     "Unidad2-JDBC 1/JDBC Avanzado en Java.md",
@@ -195,7 +205,6 @@
     "Unidad2-JDBC 1",
     "Unidad2-JDBC",
     "UD1",
-    "UD2",
     "UD1/Conversión_Archivos_Git/Ejemplo Exportación básica JSON.md",
     "UD1/Conversión_Archivos_Git/Ejemplo Exportación básica CSV.md",
     "UD1/Conversión_Archivos_Git/1. Introducción a los Formatos de Exportación.md",
