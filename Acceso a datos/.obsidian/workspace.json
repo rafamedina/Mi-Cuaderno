@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unidad2-JDBC/Tema 3 - Ejecución de sentencias DDL y DML con JDBC.md",
+                "file": "Unidad2-JDBC/TEMA 8 – Introducción a MAVEN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tema 3 - Ejecución de sentencias DDL y DML con JDBC"
+              "title": "TEMA 8 – Introducción a MAVEN"
             }
           }
         ]
@@ -180,8 +180,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7bd74fd0c63aba02",
+  "active": "9b32dd12abb46d56",
   "lastOpenFiles": [
+    "UD1/Conversión_Archivos_Git/1. Introducción a los Formatos de Exportación.md",
+    "Unidad2-JDBC/Tema 3 - Ejecución de sentencias DDL y DML con JDBC.md",
     "UD2/Tema 7 – Ejemplos prácticos integrados y comparativa final de JDBC Avanzado.md",
     "UD2/Tema 6 – Gestión de Transacciones en JDBC.md",
     "UD2/Tema 5 – Procedimientos almacenados con JDBC.md",
@@ -201,13 +203,11 @@
     "Unidad2-JDBC/Tema 6 - Gestión de Transacciones en JDBC.md",
     "Unidad2-JDBC/Tema 5 - Procedimientos almacenados con JDBC.md",
     "Unidad2-JDBC/Tema 4 - Consultas avanzadas con JDBC - ResultSet y Metadatos.md",
-    "Unidad2-JDBC/Tema 3 - Ejecución de sentencias DDL y DML con JDBC.md",
     "Unidad2-JDBC",
     "Unidad2-JDBC",
     "UD1",
     "UD1/Conversión_Archivos_Git/Ejemplo Exportación básica JSON.md",
     "UD1/Conversión_Archivos_Git/Ejemplo Exportación básica CSV.md",
-    "UD1/Conversión_Archivos_Git/1. Introducción a los Formatos de Exportación.md",
     "UD1/5. Ficheros Binarios y Serialización de Objetos/Introducción.md"
   ]
 }
